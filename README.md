@@ -14,15 +14,18 @@ My name is **Gabriela Tiago** and I'm a software engineer student at University 
 </span>
 
 
-## 📊 My Analitics 
+## 📊 My statistics and most used programming languages
 <div align="center">
   <a href="https://github.com/GabrielaTiago">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaTiago&theme=radiacal"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaTiago&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaTiago&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaTiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaTiago&layout=compact&langs_count=7&theme=radical"/>
 </div>
-##
 
   ![snake gif](https://github.com/GabrielaTiago/GabrielaTiago/blob/output/github-contribution-grid-snake.svg)
   
-## 📱 Contact
+## 📱 Contact me on:
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-tiago-de-araújo/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabstiago/)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielatiagodearaujo@outlook.com)
+
