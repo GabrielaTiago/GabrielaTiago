@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 My name is **Gabriela Tiago** and I'm a software engineer student at University of Brasilia. I'm currently in an amazzing journey to become a full stack web developement, to do so I'm doing a bootcamp at Driven Education.
+
+
+![snake gif](https://github.com/GabrielaTiago/GabrielaTiago/blob/output/github-contribution-grid-snake.svg)
