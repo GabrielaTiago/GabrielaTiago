@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello from the other side 👋🎶
 
 <!--
 **GabrielaTiago/GabrielaTiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Gabriela Tiago** and I'm a software engineer student at University of Brasilia. I'm currently in an amazzing journey to become a full stack web developement, to do so I'm doing a bootcamp at Driven Education.
