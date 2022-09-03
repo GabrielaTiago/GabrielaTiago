@@ -2,7 +2,7 @@
 
 ## Hello from the other side 👋🎶
 
-My name is **Gabriela Tiago** and I'm a software engineer student at University of Brasilia. I'm currently in an amazzing journey to become a full stack web developement, to do so I'm doing a bootcamp at Driven Education.
+My name is **Gabriela Tiago** I'm a software engineer student at University of Brasilia. I'm currently in an amazzing journey to become a full stack web developer, to do so I'm doing a bootcamp at Driven Education.
 
 
 ## 🧰 Languages and Tools
