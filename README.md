@@ -5,11 +5,10 @@ Meu none é **Gabriela Tiago**
 
  - 🎓 Estou graduando em engenharia de software pela Universidade de Brasília. 
  - 💻 Recentemente completei uma jornada intensa e fantástica de aprendizado, realizando um bootcamp de desenvolvimento web fullstack na [Driven](https://www.driven.com.br).
-<!--  - 🚧 O projeto que estou trabalhando no momento é [CityDashboard](https://github.com/GabrielaTiago/CityDashboard). -->
- - ☕ Atualemente estou aprofundando meus conhecimentos em Java.
+ - ☕ Atualmente estou aprofundando meus conhecimentos em Java.
  - 📚 Tenho o interesse em aprender sobre Vue e Angular.
  - ✨ Encontrou um bug, se tiver algum feedback ou dúvida? Sinta-se livre para falar comigo!
-
+<!--  - 🚧 O projeto que estou trabalhando no momento é [CityDashboard](https://github.com/GabrielaTiago/CityDashboard). -->
   
 ## 📱 Contato
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielatiago/)
@@ -17,7 +16,7 @@ Meu none é **Gabriela Tiago**
 
 ## 🧰 Tecnologias que trabalho
 
-#### Linguagens de programação
+#### Linguagens
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
