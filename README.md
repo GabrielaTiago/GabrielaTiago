@@ -1,10 +1,10 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
-
 <div style="width: 100%;" align="left">
   <a href="https://github.com/GabrielaTiago/GabrielaTiago/blame/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 
 <div style="display: flex; flex: 1; flex-direction: column;">
 
