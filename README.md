@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
+
 <div style="display: flex; flex: 1; flex-direction: column;">
 
 ## Oi aí do outro lado! 👋🎶
@@ -7,19 +9,12 @@ Meu nome é **Gabriela Tiago**
 Aqui estão algumas coisas sobre mim:
 
 -   🎓 Curso Engenharia de Software na Universidade de Brasília.
-
 -   💻 Trabalho com desenvolvimento web fullstack no Banco do Brasil.
-
 -   📚 Estou aprofundando meus conhecimentos em Automações Python.
-
 -   ❤️ Amo conversar sobre tecnologia, música e carros.
-
 -   ✨ Encontrou um erro, tem um feedback ou pergunta, sinta-se livre para me contrar sobre!
-
 <!-- -   🚧 O projeto que estou trabalhando no momento é [nome do projeto](link do github). -->
 </div>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 
 $~$
 
