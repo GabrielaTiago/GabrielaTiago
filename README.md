@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex: 1; flex-direction: column;">
 
-<p style"font-weight: 700; font-size: 20px;">Oi aí do outro lado! 👋🎶<p>
+<h1 style"font-weight: 700; font-size: 20px;">Oi aí do outro lado! 👋🎶<h1>
 
 Meu nome é **Gabriela Tiago**
 
