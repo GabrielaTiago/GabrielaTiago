@@ -1,12 +1,16 @@
 <style>
-.font-h1 {font-weight: 700; font-size: 26px;}
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
 </style>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 
 <div style="display: flex; flex: 1; flex-direction: column;">
 
-<p class="font-h1">Oi aí do outro lado! 👋🎶</p>
+<p class="heading1">Oi aí do outro lado! 👋🎶</p>
 
 Meu nome é **Gabriela Tiago**
 
