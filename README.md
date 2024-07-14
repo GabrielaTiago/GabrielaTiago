@@ -1,8 +1,12 @@
+<style>
+.font-h1 {font-weight: 700; font-size: 26px;}
+</style>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 
 <div style="display: flex; flex: 1; flex-direction: column;">
 
-<h1 style"font-weight: 700; font-size: 20px;">Oi aí do outro lado! 👋🎶<h1>
+<p class="font-h1">Oi aí do outro lado! 👋🎶</p>
 
 Meu nome é **Gabriela Tiago**
 
@@ -13,8 +17,8 @@ Aqui estão algumas coisas sobre mim:
 -   📚 Estou aprofundando meus conhecimentos em Automações Python.
 -   ❤️ Amo conversar sobre tecnologia, música e carros.
 -   ✨ Encontrou um erro, tem um feedback ou pergunta, sinta-se livre para me contrar sobre!
-<!-- -   🚧 O projeto que estou trabalhando no momento é [nome do projeto](link do github). -->
-</div>
+    <!-- -   🚧 O projeto que estou trabalhando no momento é [nome do projeto](link do github). -->
+    </div>
 
 $~$
 
