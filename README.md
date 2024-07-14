@@ -1,12 +1,9 @@
 <div style="width: 100%;" align="left">
   <a href="https://github.com/GabrielaTiago/GabrielaTiago/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="welcome.svg" style="flex: 1;" alt="Click to see the source">
   </a>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 </div>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
-
-<div style="display: flex; flex: 1; flex-direction: column;">
 
 Meu nome é **Gabriela Tiago**
 
@@ -18,7 +15,6 @@ Aqui estão algumas coisas sobre mim:
 -   ❤️ Amo conversar sobre tecnologia, música e carros.
 -   ✨ Encontrou um erro, tem um feedback ou pergunta, sinta-se livre para me contrar sobre!
     <!-- -   🚧 O projeto que estou trabalhando no momento é [nome do projeto](link do github). -->
-    </div>
 
 $~$
 
