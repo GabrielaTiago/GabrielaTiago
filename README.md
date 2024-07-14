@@ -1,9 +1,9 @@
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 
 <div style="display: flex; flex: 1; flex-direction: column;">
 
-<p class="heading1">Oi aí do outro lado! 👋🎶</p>`#f03c15`
+<p class="heading1">Oi aí do outro lado! 👋🎶</p>
+<span style="display:block;text-align:center;color:red">![Test Automation](Automated-Testing.png)</span>
 
 Meu nome é **Gabriela Tiago**
 
