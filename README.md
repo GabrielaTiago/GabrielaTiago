@@ -1,11 +1,23 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
 <style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-</style>
+  .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+      background-color: #f0f;
+  }
 
+@media (max-width: 767px) {
+.markdown-body {
+padding: 15px;
+}
+}
+
+</style>
+<body class="markdown-body">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 
 <div style="display: flex; flex: 1; flex-direction: column;">
@@ -85,3 +97,5 @@ $~$
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielaTiago/GabrielaTiago/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/GabrielaTiago/GabrielaTiago/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</body>
