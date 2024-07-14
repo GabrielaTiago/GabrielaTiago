@@ -1,6 +1,4 @@
-<div
-  align="center"
-  style="display: flex; flex: 1; flex-direction: column;">
+<div style="display: flex; flex: 1; flex-direction: column;">
 
 ## Oi aí do outro lado! 👋🎶
 
@@ -19,9 +17,9 @@ Aqui estão algumas coisas sobre mim:
 -   ✨ Encontrou um erro, tem um feedback ou pergunta, sinta-se livre para me contrar sobre!
 
 <!-- -   🚧 O projeto que estou trabalhando no momento é [nome do projeto](link do github). -->
+</div>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
-</div>
 
 $~$
 
