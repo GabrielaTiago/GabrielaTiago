@@ -1,7 +1,10 @@
 <div style="width: 100%;" align="left">
-  <a href="https://github.com/GabrielaTiago/GabrielaTiago/blame/main/welcome.svg">
-    <img src="welcome.svg" style="flex: 1;" alt="Click to see the source">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/welcome.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/welcome-light.svg" />
+    <img alt=welcome" style="flex: 1;" src="assets/welcome.svg" />
+  </picture>
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="310" height="310"/>
 </div>
 
