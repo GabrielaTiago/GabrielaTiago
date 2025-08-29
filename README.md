@@ -13,8 +13,8 @@ Meu nome é **Gabriela Tiago**
 Aqui estão algumas coisas sobre mim:
 
 -   🎓 Curso Engenharia de Software na Universidade de Brasília.
--   💻 Trabalho com desenvolvimento web fullstack no Banco do Brasil.
--   📚 Estou aprofundando meus conhecimentos em Automações Python.
+-   💻 Trabalho como System Support Engineer na Thoughtworks.
+-   📚 Estou aprofundando meus conhecimentos em Observalidade e AWS.
 -   ❤️ Amo conversar sobre tecnologia, música e carros.
 -   ✨ Encontrou um erro, tem um feedback ou pergunta, sinta-se livre para me contrar sobre!
     <!-- -   🚧 O projeto que estou trabalhando no momento é [nome do projeto](link do github). -->
